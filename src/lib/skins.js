@@ -5,5 +5,3 @@ export default {
 	1: oct1,
 	2: oct2
 };
-
-export const randomize = () => Math.floor(Math.random() * 2 + 1);
