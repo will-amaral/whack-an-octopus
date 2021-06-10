@@ -5,6 +5,7 @@
 <svelte:head>
 	<title>Whack-an-Octopus</title>
 </svelte:head>
+<h1>Whack-an-Octopus</h1>
 <div class="grid">
 	<Octo />
 	<Octo />
